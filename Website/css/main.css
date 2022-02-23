@@ -1,0 +1,21 @@
+.heading1 {
+  color: white;
+  padding: 5em 5em 0;
+}
+
+.heading2 {
+  color: maroon;
+}
+
+.container {
+}
+
+.bigflex {
+  display: flex;
+}
+
+.cente {
+  display: inline-block;
+  max-width: 100%;
+  margin: auto;
+}
